@@ -1,0 +1,4 @@
+#Wed Nov 24 19:37:37 COT 2021
+base.0=P\:\\AppFlutter\\BACKCUP\\my_track\\my_track\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,10 @@
+# Referenced at P:\AppFlutter\BACKCUP\my_track\my_track\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at P:\AppFlutter\BACKCUP\my_track\my_track\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:30
+-keep class com.example.mytracker.MainActivity { <init>(); }
+# Referenced at P:\AppFlutter\BACKCUP\my_track\my_track\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:80
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at P:\AppFlutter\BACKCUP\my_track\my_track\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:20
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at P:\AppFlutter\BACKCUP\my_track\my_track\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:72
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
